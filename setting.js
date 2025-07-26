@@ -1,5 +1,5 @@
 //Pairing Code
-global.pairingCode = false //true = gausah scan qr cukup 1 hp || false = harus scan qr dan 2 hp
+global.pairingCode = true //true = gausah scan qr cukup 1 hp || false = harus scan qr dan 2 hp
 
 //Setting velzz.shop
 global.api_id = "9a7cbdcc"
